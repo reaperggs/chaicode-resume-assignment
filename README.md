@@ -1,6 +1,10 @@
 # Resume Website
 
 A simple resume webpage built using HTML and minimal CSS, designed to resemble a clean, traditional resume layout suitable for evaluation and PDF export.
+<img width="994" height="843" alt="image" src="https://github.com/user-attachments/assets/39a80884-81e1-482e-b022-6a6eea4b9874" />
+<img width="680" height="358" alt="image" src="https://github.com/user-attachments/assets/13cbf04b-d70a-4c2d-a8d9-8819e2355b55" />
+
+
 
 ## Features
 
